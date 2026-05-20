@@ -67,6 +67,7 @@ int main() {
 
   printf("Digite o codigo da carta (a letra do estado seguida de um número de 01 a 04. Ex: A01.: ");
   scanf("%3s", codigo_de_carta2);
+  
 
   getchar(); // consome o Enter
 
